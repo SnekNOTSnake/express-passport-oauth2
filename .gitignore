@@ -1,0 +1,17 @@
+# Folders
+/node_modules
+
+# Util Files
+google-util.js
+
+# dotenv environment variables file
+*.env
+.env
+
+# Log Files
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
